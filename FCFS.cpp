@@ -5,7 +5,8 @@
 using namespace std;
 int main()
 {
-	int bt[20], wt[20], tat[20], i, n;
+	int bt[20], wt[20], tat[20];
+	int  i, n;
 	float wt_avg, tat_avg;
 	cout<<"\nEnter the number of processes = ";
 	cin>>n;
