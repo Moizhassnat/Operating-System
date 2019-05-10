@@ -1,7 +1,7 @@
 # Operating-System
 scheduling Algorithm
 
-Steps of using vim editor
+Steps of using #vim editor
 
 1- vi FCFS.cpp.
 
